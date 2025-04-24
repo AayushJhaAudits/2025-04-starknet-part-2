@@ -9,7 +9,7 @@
 ## Finding: ❗ Missing Access Control in `update_user_votes()` and `update_rewards()` Functions
 
 ### 🔍 Description
-
+ 
 The `interface.cairo` contract lacks any form of access control on critical state-changing functions like:
 
 - `update_user_votes()`
